@@ -1,0 +1,44 @@
+SYSTEM SPECIFIC REQUIREMENT DOCUMENT
+
+Title: System Specific Requirement document for "Employee Recruitment System".
+
+Overview: Employee Recruitement System is a system in which jobseeker can register themselves online, view organizational requirements and apply for the suitable job.
+
+Scope : Primary purpose to develope this system is to optimize the recruitment process for an organization.
+
+Q. Functional requirements of the above case study:
+1)User register: User can register him/her on the portal with the email id,username and password.
+
+2)organization register : organization can register here.
+
+3)User Log in: after registration user can log in to that particular portal.
+
+4)User Log out : user can log out through the portal.
+
+5)Organization log in :  after registration organization can log out to that particular portal.
+
+6) Organization log in :  after registration organization can log in to that particular portal.
+ 
+7)Webpage: The web page must be attractive as well as informative. User can access each attribute very easily.
+
+8)Create or upload CV : Here user can upload his CV or if he/she is not yet created the CV then they can create here CV with various patterns.
+
+9)organizations' profile : Here an organizations can upload the profile like their tieps with various projects, their market status, their achievements.
+
+10)Approches of the company : After uploading the CV user should get the notifications of the job roles from the various companies via Portal as well as to their mails.
+
+11)User's interest : After getteig the notifications, user can accept or reject the offer.
+
+12)Organizations' Staffing requirements : Organization can post the job requirements like job role,salary,skills,location etc.
+
+13)Developing the skills : Here a candidate can develope the required skills for specific company. 
+
+14)viewing the profile : Organization can check the profile of interested candidate.
+
+15)help desk : Here the application developers should post their emailID and some contact numbers, so if their will be any difficulty user can connect them.
+
+
+
+ 
+
+
