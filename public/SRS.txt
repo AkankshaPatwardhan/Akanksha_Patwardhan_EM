@@ -37,6 +37,8 @@ Q. Functional requirements of the above case study:
 
 15)help desk : Here the application developers should post their emailID and some contact numbers, so if their will be any difficulty user can connect them.
 
+16)review and remarks : Here users can give the ratings and remarks.
+
 
 
  

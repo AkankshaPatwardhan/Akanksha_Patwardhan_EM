@@ -1,0 +1,20 @@
+BUSINESS ENTITIES:
+
+1)User: 
+Registeration, log in, log out, visit the organizations' profile,
+upload CV.
+
+2)Organization : Register, log in, log out, post job requiremnts,
+check interested candidates' profiles.
+
+3)Developer : create the informative webpage provide the necessary help for both user and organization.
+
+4)Portal : Providing the unique ID for the user as well as organization, provide the necessary notification. 
+
+
+BUSSINESS OPERATIONS:
+1)Create profile : Here user as well organization can create the profiles.
+ 
+2)Update profile: here user as well as organization can update their profiles.
+
+3)Delet profile : here user as well as organizatio can remove their profiles form the portal.
